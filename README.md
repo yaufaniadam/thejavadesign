@@ -1,2 +1,2 @@
 # thejavadesign
-Wordpress theme develop by Thejavadesign.com Team
+Wordpress theme developed by Thejavadesign.com Team
